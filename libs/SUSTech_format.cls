@@ -1,19 +1,15 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% UFC Beamer Class File
-%% author: Maurício Moreira Neto
-%% description: This file creates a custom beamer class for the Federal University of Ceará (UFC).
-%% It was used the same color hue as the university emblem.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{libs/ufc_format}[15/12/2020 v1.0 ufc template beamer]
+\ProvidesClass{libs/SUSTech_format}[15/12/2020 v1.0 ufc template beamer]
 
 \PassOptionsToPackage{svgnames}{xcolor} 
 \LoadClass[compress, 10pt]{beamer}
 
 %% Putting the background image in the frames
 \usebackgroundtemplate{\includegraphics[width=1.7\paperwidth]{libs/LOGO transparent.png}}
-\logo{\includegraphics[scale=0.2]{libs/LOGO3_small.png}\hspace{9.3cm} \vspace{-0.1cm}}
+
+\logo{\includegraphics[scale=0.2]{libs/LOGO3_small.png}\hspace{9.3cm} \vspace{-0.2cm}}
 
 %% Packages Used
 \RequirePackage[utf8]{inputenc}
@@ -42,6 +38,7 @@
 \definecolor{red}{RGB}{215, 0, 0}
 \definecolor{green_ufc}{RGB}{0, 146, 62}
 
+% SUSTech theme color
 \definecolor{orange_theme}{RGB}{237, 108, 0}
 \definecolor{green_theme}{RGB}{0, 63, 67}
 \definecolor{cyan_theme}{RGB}{43, 183, 179}
@@ -194,3 +191,4 @@
       \href{mailto:#1}{#1}
     }
 }
+

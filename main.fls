@@ -4,8 +4,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.tex
 OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.log
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/ufc_format.cls
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/ufc_format.cls
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/SUSTech_format.cls
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/SUSTech_format.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -378,6 +378,39 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/minted/minted.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/minted/minted.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fvextra/fvextra.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fvextra/fvextra.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/upquote/upquote.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/upquote/upquote.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lineno/lineno.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lineno/lineno.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/catchfile/catchfile.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/catchfile/catchfile.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT /dev/null
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.w18
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.w18
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.tex
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/framed/framed.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/framed/framed.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aex
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aux
@@ -450,6 +483,8 @@ INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SU
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
@@ -481,22 +516,57 @@ INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SU
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default-pyg-prefix.pygstyle
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default-pyg-prefix.pygstyle
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default-pyg-prefix.pygstyle
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default-pyg-prefix.pygstyle
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default.pygstyle
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default.pygstyle
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default.pygstyle
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/default.pygstyle
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/main.py
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtt8.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/main.py
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/main.py
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/C4ABCD5E6C5FB582C4E7E72A3F822F6C3855274E9E0D6148926C1999F706D871.pygtex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/C4ABCD5E6C5FB582C4E7E72A3F822F6C3855274E9E0D6148926C1999F706D871.pygtex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/C4ABCD5E6C5FB582C4E7E72A3F822F6C3855274E9E0D6148926C1999F706D871.pygtex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/C4ABCD5E6C5FB582C4E7E72A3F822F6C3855274E9E0D6148926C1999F706D871.pygtex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtk10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtk10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmr5.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtt8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ts1lmtt.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ts1lmtt.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ts1-lmtt10.tfm
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/source.c
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/source.c
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/source.c
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/E5591C8600E9F8D78B90458C4855F596D4F30682E6E292DD82156CF26679866C.pygtex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/E5591C8600E9F8D78B90458C4855F596D4F30682E6E292DD82156CF26679866C.pygtex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/E5591C8600E9F8D78B90458C4855F596D4F30682E6E292DD82156CF26679866C.pygtex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/_minted-main/E5591C8600E9F8D78B90458C4855F596D4F30682E6E292DD82156CF26679866C.pygtex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtti10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtti10.tfm
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
 INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty

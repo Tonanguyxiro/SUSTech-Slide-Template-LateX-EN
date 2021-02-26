@@ -5,7 +5,7 @@
 %%    e-mail: maumneto@ufc.br                                                    %%
 %%    linktree: https://linktr.ee/maumneto                                       %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass{libs/ufc_format}
+\documentclass{libs/SUSTech_format}
 % Inserting the preamble file with the packages
 \input{libs/preamble.tex}
 % Inserting the references file
@@ -18,7 +18,7 @@
 % Author of the presentation
 \author{Name of Author}
 % Institute's Name
-\institute[UFC]{
+\institute[SUSTech]{
     % email for contact
     \normalsize{\email{name@mail.sustech.edu.cn}}
     \newline
@@ -30,6 +30,8 @@
 }
 % date of the presentation
 \date{\today}
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -55,33 +57,34 @@
 
 %% ---------------------------------------------------------------------------
 % This presentation is separated by sections and subsections
-% \section{Section I}
-% \begin{frame}{Explicações}
-%     % itemize
-%     Este é um template que pode ser utilizado para:
-%     \begin{itemize}
-%         \item Apresentação de Trabalhos Acadêmicos
-%         \item Apresentação de Disciplinas
-%         \item Apresentações de Teses e Dissertações
-%     \end{itemize}
+\section{Basic componments}
 
-%     \vspace{0.4cm} % vertical space
+\begin{frame}{Lists}
+    % itemize
+    Lets try to list some items
+    \begin{itemize}
+        \item Here is an item
+        \item Here is an item
+        \item Here is an item
+    \end{itemize}
+
+    \vspace{0.4cm} % vertical space
     
-%     % enumeration
-%     Para utilizar este template corretamente é importante que:
-%     \begin{enumerate}
-%         \item Tenha conhecimento mínimo sobre LaTeX
-%         \item Ler os comentários no template (explicações)
-%         \item Ler o README.md (documentação)
-%     \end{enumerate}
+    % enumeration
+    Lets try another style
+    \begin{enumerate}
+        \item Here is an item
+        \item Here is an item
+        \item Here is an item
+    \end{enumerate}
 
-%     \vspace{0.2cm}
+    \vspace{0.2cm}
 
-%     \example{Este é um texto de exemplo!} \emph{Texto de Ênfase!}
-% \end{frame}
+    \example{Example is in this color} \emph{Enphisis is in this color}
+\end{frame}
 
 %% ---------------------------------------------------------------------------
-\subsection{SubSection I}
+\subsection{Blocks and boxs}
 \begin{frame}{Blocks}
     % Blocks styles
     \begin{block}{Block I}
@@ -98,7 +101,6 @@
 \end{frame}
 
 %% ---------------------------------------------------------------------------
-\subsection{SubSection II}
 \begin{frame}{Different boxs}
     \successbox{Text in success box}
 
@@ -112,7 +114,7 @@
 \end{frame}
 
 %% ---------------------------------------------------------------------------
-\subsection{SubSection III}
+\subsection{Express programs}
 \begin{frame}{Insert Algorithm}
     \begin{algorithm}[H]
         \SetAlgoLined
@@ -137,13 +139,22 @@
 %% ---------------------------------------------------------------------------
 
 \begin{frame}{Insert code}
-    \lstset{language=Python}
-    \lstinputlisting[language=Python]{code/main.py}
+    \inputminted[
+        linenos=true,
+        breaklines, 
+        breakafter=d,
+        bgcolor=codebackground
+    ]{Python}{code/main.py}
 \end{frame}
 
 %% ---------------------------------------------------------------------------
-\begin{frame}{Insert cod}
-    \lstinputlisting[language=C]{code/source.c}
+\begin{frame}{Insert code}
+    \inputminted[
+        linenos=true,
+        breaklines, 
+        breakafter=d,
+        bgcolor=codebackground
+    ]{C}{code/source.c}
 \end{frame}
 
 %% ---------------------------------------------------------------------------
