@@ -1,0 +1,196 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% This project aims to create the UFC template for presentation.                %%
+%% author: Maurício Moreira Neto - Doctoral student in Computer Science (MDCC)   %%
+%% contacts:                                                                     %%
+%%    e-mail: maumneto@ufc.br                                                    %%
+%%    linktree: https://linktr.ee/maumneto                                       %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass{libs/ufc_format}
+% Inserting the preamble file with the packages
+\input{libs/preamble.tex}
+% Inserting the references file
+\bibliography{references.bib}
+
+% Title
+\title[short title of the pre]{\huge\textbf{Title of the presentation}}
+% Subtitle
+\subtitle{Subtitle of the Presentation}
+% Author of the presentation
+\author{Name of Author}
+% Institute's Name
+\institute[UFC]{
+    % email for contact
+    \normalsize{\email{name@mail.sustech.edu.cn}}
+    \newline
+    % Department Name
+    \department{Name of the Department}
+    \newline
+    % university name
+    \SUSTech
+}
+% date of the presentation
+\date{\today}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Start Document of the Presentation                                           %%               
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+% insert the code style
+\input{libs/code_style}
+
+%% ---------------------------------------------------------------------------
+% First frame (with tile, subtitle, ...)
+\begin{frame}{}
+    \maketitle
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+% Second frame
+\begin{frame}{Table of Content}
+    \begin{multicols}{2}
+        \tableofcontents
+    \end{multicols}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+% This presentation is separated by sections and subsections
+% \section{Section I}
+% \begin{frame}{Explicações}
+%     % itemize
+%     Este é um template que pode ser utilizado para:
+%     \begin{itemize}
+%         \item Apresentação de Trabalhos Acadêmicos
+%         \item Apresentação de Disciplinas
+%         \item Apresentações de Teses e Dissertações
+%     \end{itemize}
+
+%     \vspace{0.4cm} % vertical space
+    
+%     % enumeration
+%     Para utilizar este template corretamente é importante que:
+%     \begin{enumerate}
+%         \item Tenha conhecimento mínimo sobre LaTeX
+%         \item Ler os comentários no template (explicações)
+%         \item Ler o README.md (documentação)
+%     \end{enumerate}
+
+%     \vspace{0.2cm}
+
+%     \example{Este é um texto de exemplo!} \emph{Texto de Ênfase!}
+% \end{frame}
+
+%% ---------------------------------------------------------------------------
+\subsection{SubSection I}
+\begin{frame}{Blocks}
+    % Blocks styles
+    \begin{block}{Block I}
+        Text in the block.
+    \end{block}
+
+    \begin{alertblock}{Block II}
+        Text in the alert block.
+    \end{alertblock}
+
+    \begin{exampleblock}{Block III}
+        Text in the example block.
+    \end{exampleblock}   
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+\subsection{SubSection II}
+\begin{frame}{Different boxs}
+    \successbox{Text in success box}
+
+    \pause
+
+    \alertbox{Text in alert box}
+
+    \pause
+
+    \simplebox{Text in simple box}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+\subsection{SubSection III}
+\begin{frame}{Insert Algorithm}
+    \begin{algorithm}[H]
+        \SetAlgoLined
+        \LinesNumbered
+        \SetKwInOut{Input}{input}
+        \SetKwInOut{Output}{output}
+        \Input{x: float, y: float}
+        \Output{r: float}
+        \While{True}{
+          r = x + y\;
+          \eIf{r >= 30}{
+           ``O valor de $r$ é maior ou iqual a 10.''\;
+           break\;
+           }{
+           ``O valor de $r$ = '', r\;
+          }
+         } 
+         \caption{Algorithm Example}
+    \end{algorithm}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+
+\begin{frame}{Insert code}
+    \lstset{language=Python}
+    \lstinputlisting[language=Python]{code/main.py}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+\begin{frame}{Insert cod}
+    \lstinputlisting[language=C]{code/source.c}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+\begin{frame}{Insert cod}
+    \lstinputlisting[language=Java]{code/helloworld.java}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+\begin{frame}{Insert cod}
+    \lstinputlisting[language=HTML]{code/index.html}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+% This frame show an example to insert multicolumns
+
+%% ---------------------------------------------------------------------------
+% This frame show an example to insert figures
+\section{Images}
+\begin{frame}{Section III - Figures}
+    \begin{figure}
+        \centering
+        \caption{SUSTech LOGO.}
+        \includegraphics[scale=0.3]{libs/LOGO.png}
+        \source{SUSTech LOGO}
+        \label{fig:ufc_emblem}
+    \end{figure}
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+% Reference frames
+\begin{frame}[allowframebreaks]
+    \frametitle{References}
+    \printbibliography
+\end{frame}
+
+%% ---------------------------------------------------------------------------
+% Final frame
+\begin{frame}{}
+    \centering
+    \huge{\textbf{\example{Thanks!}}}
+    
+    \vspace{1cm}
+    
+    \Large{\textbf{Contact:}}
+    \newline
+    \vspace*{0.5cm}
+    \large{\email{Cnatact info}}
+\end{frame}
+
+\end{document}
