@@ -1,11 +1,11 @@
-PWD /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I
+PWD /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.tex
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.log
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/ufc_format.cls
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/ufc_format.cls
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.tex
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.log
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/ufc_format.cls
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/ufc_format.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -318,8 +318,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamerinnerthemerectan
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/preamble.tex
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/preamble.tex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/preamble.tex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/preamble.tex
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -380,9 +380,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.aux
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.aux
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.aux
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aux
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aux
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -391,13 +391,13 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -422,15 +422,15 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.bcf
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.bbl
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.bbl
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.bbl
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.nav
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.nav
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.bcf
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.bbl
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.bbl
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.bbl
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.nav
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.nav
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/code_style.tex
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/code_style.tex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/code_style.tex
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/code_style.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
@@ -439,17 +439,17 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtt10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.xdv
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.toc
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.toc
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.xdv
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.toc
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
@@ -472,64 +472,64 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/main.py
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/main.py
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtt8.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/main.py
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/main.py
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/main.py
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/main.py
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/source.c
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/source.c
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/source.c
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/source.c
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/source.c
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/source.c
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/helloworld.java
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/helloworld.java
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/helloworld.java
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/helloworld.java
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/helloworld.java
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/helloworld.java
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/index.html
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/index.html
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/code/index.html
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/index.html
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/index.html
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/code/index.html
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO transparent.png
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/libs/LOGO3_small.png
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.nav
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.toc
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.snm
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.aux
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.out
-INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.run.xml
-OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.run.xml
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO transparent.png
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/libs/LOGO3_small.png
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.nav
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.toc
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.snm
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aux
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.out
+INPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.run.xml
+OUTPUT /Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.run.xml

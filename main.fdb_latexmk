@@ -1,16 +1,18 @@
 # Fdb version 3
-["biber main"] 1614306075 "main.bcf" "main.bbl" "main" 1614306206
-  "main.bcf" 1614306205 100678 e0ed00abc96b3a65b76512c515f47923 "xelatex"
+["biber main"] 1614306075 "main.bcf" "main.bbl" "main" 1614306941
+  "main.bcf" 1614306940 100678 e0ed00abc96b3a65b76512c515f47923 "xelatex"
   (generated)
-  "main.blg"
   "main.bbl"
-["xdvipdfmx"] 1614306205 "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.xdv" "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.pdf" "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main" 1614306206
-  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.xdv" 1614306205 115120 fc1b253a18c5f0f9fcdf66d609392fa5 "xelatex"
+  "main.blg"
+["xdvipdfmx"] 1614306940 "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.xdv" "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.pdf" "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main" 1614306941
+  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.xdv" 0 -1 0 "xelatex"
+  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.xdv" 1614306940 115120 78c5553a087720daa1429db88658eeef "xelatex"
   (generated)
   "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.pdf"
-["xelatex"] 1614306204 "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.tex" "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.xdv" "main" 1614306206
-  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.aux" 1614306205 6574 c659e6473d95dc1a352919587baf6ece ""
-  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.tex" 1614306202 5911 7a9a1be343fca6a36fb9fcc7622eefb4 ""
+  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.pdf"
+["xelatex"] 1614306939 "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.tex" "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.xdv" "main" 1614306941
+  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.aux" 1614306940 6574 c659e6473d95dc1a352919587baf6ece ""
+  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.tex" 1614306939 5911 7a9a1be343fca6a36fb9fcc7622eefb4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1136768653 6628 34c39492c0adc454c1c199922bba8363 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm" 1136768653 7040 b2bd27e2bfe6f6948cbc3239cae7444f ""
@@ -271,22 +273,22 @@
   "libs/code_style.tex" 1611736100 1233 1d3682d5501945fe7217c30a1befcc1a ""
   "libs/preamble.tex" 1614305969 1174 afd41fd7c9a918157aa6c13c1d0a1082 ""
   "libs/ufc_format.cls" 1611736100 5642 fbe39a9ef6b4a5fae35a4c474f040ded ""
-  "main.aux" 1614306205 6574 c659e6473d95dc1a352919587baf6ece "xelatex"
+  "main.aux" 1614306940 6574 c659e6473d95dc1a352919587baf6ece "xelatex"
   "main.bbl" 1614306076 466 f7f239c736cf01ac6ce7bd829f9b3c7b "biber main"
-  "main.nav" 1614306205 3038 d67d8e0d3a8eceda1875911264b8a535 "xelatex"
-  "main.out" 1614306205 206 e63154ea26b5fad8dd204c9be1269f4a "xelatex"
-  "main.run.xml" 1614306205 2401 a2dd67db00fa59abdcc5fde78f3a8d75 "xelatex"
-  "main.tex" 1614306202 5911 7a9a1be343fca6a36fb9fcc7622eefb4 ""
-  "main.toc" 1614306205 475 38c10922602e70ee35d6c46051368093 "xelatex"
+  "main.nav" 1614306940 3038 d67d8e0d3a8eceda1875911264b8a535 "xelatex"
+  "main.out" 1614306940 206 e63154ea26b5fad8dd204c9be1269f4a "xelatex"
+  "main.run.xml" 1614306940 2401 a2dd67db00fa59abdcc5fde78f3a8d75 "xelatex"
+  "main.tex" 1614306939 5911 7a9a1be343fca6a36fb9fcc7622eefb4 ""
+  "main.toc" 1614306940 475 38c10922602e70ee35d6c46051368093 "xelatex"
   (generated)
-  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.xdv"
-  "main.nav"
-  "main.bcf"
-  "main.snm"
+  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.xdv"
   "main.xdv"
-  "main.run.xml"
-  "main.toc"
+  "main.nav"
   "main.aux"
+  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template/SUSTech-Slide-Template/main.log"
+  "main.snm"
+  "main.run.xml"
   "main.out"
+  "main.toc"
+  "main.bcf"
   "main.log"
-  "/Users/tongyuan/Documents/Study/Templates/SUSTech Presentation Template I/main.log"
