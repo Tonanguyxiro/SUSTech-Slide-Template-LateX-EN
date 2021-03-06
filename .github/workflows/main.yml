@@ -1,0 +1,21 @@
+name: Verify compile
+on: [push, pull_request]
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: main.tex
+          latexmk_use_xelatex: true
+          latexmk_shell_escape: true
+          
+      - name: Publish PDF as actions assets
+        uses: actions/upload-artifact@v2
+        with:
+          name: PDF
+          path: main.pdf
