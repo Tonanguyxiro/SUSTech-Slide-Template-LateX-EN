@@ -1,16 +1,50 @@
-
+## Core latex/pdflatex auxiliary files:
 *.aux
-main.aux
-main.blg
-main.fdb_latexmk
-main.fls
-main.log
-_minted-main/C4ABCD5E6C5FB582C4E7E72A3F822F6C3855274E9E0D6148926C1999F706D871.pygtex
-_minted-main/default-pyg-prefix.pygstyle
-_minted-main/default.pygstyle
-_minted-main/E5591C8600E9F8D78B90458C4855F596D4F30682E6E292DD82156CF26679866C.pygtex
-main.aux
-main.blg
-main.fdb_latexmk
-main.fls
-main.xdv
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# beamer
+*.nav
+*.pre
+*.snm
+*.vrb
+
+_minted-*
