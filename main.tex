@@ -9,7 +9,7 @@
 % Inserting the preamble file with the packages
 \input{libs/preamble.tex}
 % Inserting the references file
-\bibliography{references.bib}
+\addbibresource{references.bib}
 
 % Title
 \title[short title of the pre]{\huge\textbf{Title of the presentation}}
@@ -63,8 +63,8 @@
     % itemize
     Lets try to list some items
     \begin{itemize}
-        \item Here is an item
-        \item Here is an item
+        \item Here is an item\cite{einstein}
+        \item Here is an item\cite{siteufc}
         \item Here is an item
     \end{itemize}
 
